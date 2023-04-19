@@ -21,6 +21,6 @@ int main (){
 int Increment_Test(int x,int y){
   return x+y;
 }
-int Decrement_Dest(int x, int y){
+int Decrement_Test(int x, int y){
   return x-y;
 }
