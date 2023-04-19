@@ -14,6 +14,7 @@ int main (){
     anser += Increment_Test(1,1);
   }
   
+  primntf("yoyoyoyoyoyoyoyoyo\n");
 
   return 0;
 }
