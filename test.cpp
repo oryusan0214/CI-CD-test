@@ -24,3 +24,5 @@ int Increment_Test(int x,int y){
 int Decrement_Test(int x, int y){
   return x-y;
 }
+
+//ここが追加したところだyo
