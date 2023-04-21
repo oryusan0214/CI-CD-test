@@ -1,9 +1,11 @@
 #include "header/System.h"
 
+
+
 int Increment_Test(int x,int y);
 int Decrement_Dest(int x, int y);
 
-int main (){
+int test (){
   int i;
   int count;
   int anser;
