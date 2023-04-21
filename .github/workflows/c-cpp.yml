@@ -16,5 +16,5 @@ jobs:
     - name: make
       run: make main
     - name: run
-      run: ./test
+      run: ./main
     

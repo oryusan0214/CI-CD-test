@@ -1,5 +1,5 @@
-#include "header/Argument.h"
-#include "header/Test.h"
+#include "main.h"
+
 
 extern int test(void);
 

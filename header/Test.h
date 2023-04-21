@@ -1,2 +1,2 @@
-#include "System.h"
-int test(void);
+#include "Include.h"
+extern int test(void);
