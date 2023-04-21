@@ -1,5 +1,5 @@
-#include "Argument.h"
-#include "Test.h"
+#include "header/Argument.h"
+#include "header/Test.h"
 
 int main(void){
   test();
