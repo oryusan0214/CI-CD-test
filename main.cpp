@@ -1,4 +1,5 @@
 #include "main.h"
+#include "header/Test.h"
 
 extern int test();
 
