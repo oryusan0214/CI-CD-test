@@ -1,7 +1,7 @@
 #include "main.h"
-#include "header/Test.h"
+#include "Test.h"
 
-extern int test();
+
 
 int main(void){
   printf("test start");
