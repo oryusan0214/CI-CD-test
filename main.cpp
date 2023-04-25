@@ -3,8 +3,6 @@
 #include "Test.h"
 
 
-extern int test(void);
-
 int main(void){
   printf("test start\n");
   test();
