@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 runs: 
   using: 'docker'
-  image: 'docker'
+  image: 'gcc'
 jobs:
   build:
 
