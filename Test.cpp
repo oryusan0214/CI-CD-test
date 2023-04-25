@@ -1,11 +1,12 @@
 #include "header/Include.h"
+#include "Test.h"
 
 
 
 int Increment_Test(int x,int y);
 int Decrement_Dest(int x, int y);
 
-int test (){
+int test (void){
   int i;
   int count;
   int anser;
