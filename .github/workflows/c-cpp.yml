@@ -5,13 +5,14 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-runs: 
-  using: 'docker'
-  image: 'gcc'
+
 jobs:
   build:
 
     runs-on: ubuntu-latest
+    runs: 
+      using: 'docker'
+      image: 'gcc'
 
     steps:
     - uses: actions/checkout@v3
