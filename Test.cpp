@@ -4,7 +4,7 @@
 
 
 int Increment_Test(int x,int y);
-int Decrement_Dest(int x, int y);
+int Decrement_Test(int x, int y);
 
 int test (void){
   int i;
