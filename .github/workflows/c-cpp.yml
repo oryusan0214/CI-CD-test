@@ -13,10 +13,8 @@ jobs:
     
     steps:
     - uses: actions/checkout@v3
-    - name: install cppunit
-      run: sudo apt install -y libcppunit-dev
     - name: make main
-      run: make main
+      run: g++ main.cpp Test.cpp -o main 
     - name: run
       run: ./main
     
